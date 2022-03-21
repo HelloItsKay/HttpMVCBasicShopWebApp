@@ -1,0 +1,5 @@
+C:\Users\krust\source\repos\!07. Webb Basics\SMS-Solution\SMS\obj\Debug\net5.0\SMS.csproj.AssemblyReference.cache
+C:\Users\krust\source\repos\!07. Webb Basics\SMS-Solution\SMS\obj\Debug\net5.0\SMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krust\source\repos\!07. Webb Basics\SMS-Solution\SMS\obj\Debug\net5.0\SMS.AssemblyInfoInputs.cache
+C:\Users\krust\source\repos\!07. Webb Basics\SMS-Solution\SMS\obj\Debug\net5.0\SMS.AssemblyInfo.cs
+C:\Users\krust\source\repos\!07. Webb Basics\SMS-Solution\SMS\obj\Debug\net5.0\SMS.csproj.CoreCompileInputs.cache
